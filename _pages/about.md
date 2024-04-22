@@ -41,20 +41,22 @@ I'm interested in:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='pdf/NeurIPS2023.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yi Ma`, Hongyao Tang, Dong Li, Zhaopeng Meng. Reining Generalization in Offline Reinforcement Learning via Representation Distinction. *NeurIPS 2023*. (CCF A)  
-[[链接]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/802a4350ca4fced76b13b8b320af1543-Abstract-Conference.html) [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/NeurIPS2023.pdf) 
+[[链接]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/802a4350ca4fced76b13b8b320af1543-Abstract-Conference.html)
+ <!-- [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/NeurIPS2023.pdf)  -->
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='pdf/CIKM2023.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Hebin Liang, Zibin Dong, `Yi Ma`, Xiaotian Hao, Yan Zheng, Jianye Hao. A Hierarchical Imitation Learning-based Decision Framework for Autonomous Driving. *CIKM 2023*. (CCF B)  
-[[链接]](https://dl.acm.org/doi/10.1145/3583780.3615454) [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/CIKM2023.pdf) 
+[[链接]](https://dl.acm.org/doi/10.1145/3583780.3615454) 
+<!-- [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/CIKM2023.pdf)  -->
 
 </div>
 </div>
