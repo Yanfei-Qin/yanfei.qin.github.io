@@ -37,7 +37,7 @@ I'm interested in:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publications
+# 📝 Selected Publications
 
 ### Papers
 ---
