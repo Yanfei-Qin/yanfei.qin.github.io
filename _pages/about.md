@@ -69,7 +69,7 @@ A Hierarchical Imitation Learning-based Decision Framework for Autonomous Drivin
 <div class='paper-box-text' markdown="1">
 
 
-<b>Hebin Liang*</b> , <b>Yi Ma*</b>, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
+**Hebin Liang\*** , **Yi Ma\***, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
 SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem. <br>
 *AAAI 2023*. (`CCF A`)  <br>
 [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26049) 
