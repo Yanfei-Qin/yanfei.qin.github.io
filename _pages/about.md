@@ -42,7 +42,7 @@ I'm interested in:
 ### Papers
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Kai Zhao, Jianye Hao, **Yi Ma**, Jinyi Liu, Yan Zheng, Zhaopeng Meng. <br>
@@ -55,7 +55,7 @@ IJCAI 2024. (`CCF A`)  <br>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='thumbs/ICLR2024.jpg' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Yifu Yuan, Jianye Hao, **Yi Ma**, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng. <br>
 *Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback*. <br>
