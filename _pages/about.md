@@ -54,19 +54,8 @@ IJCAI 2024. (`CCF A`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-Kai Zhao, Jianye Hao, <b>Yi Ma</b>, Jinyi Liu, Yan Zheng, Zhaopeng Meng. <br>
-*ENOTO: Improving Offline-to-Online Reinforcement Learning with Q-Ensembles*. <br>
-IJCAI 2024. (`CCF A`)  <br>
-[[link]]()
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Yifu Yuan, Jianye Hao, <b>Yi Ma</b>, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng. <br>
 *Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback*. <br>
@@ -105,8 +94,8 @@ CIKM 2023. (`CCF B`)  <br>
 
 
 **Hebin Liang\*** , **Yi Ma\***, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
-*SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem. <br>
-AAAI 2023*. (`CCF A`)  <br>
+*SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem*. <br>
+AAAI 2023. (`CCF A`)  <br>
 [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26049) 
 
 
@@ -118,10 +107,10 @@ AAAI 2023*. (`CCF A`)  <br>
 <div class='paper-box-text' markdown="1">
 
 
-**Hebin Liang\*** , **Yi Ma\***, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
-*SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem. <br>
-AAAI 2023*. (`CCF A`)  <br>
-[[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26049) 
+*Yi Ma*, Chao Wang, Chen Chen, Jinyi Liu, Zhaopeng Meng, Yan Zheng, Jianye Hao. <br>
+*OSCAR: OOD State Conservative Offline Reinforcement Learning for S equential Decision Making*. <br>
+CAAI Aritificial Intelligence Research 2023.  <br>
+[[link]](https://www.sciopen.com/article/10.26599/AIR.2023.9150020) 
 
 
 </div>
@@ -134,7 +123,7 @@ AAAI 2023*. (`CCF A`)  <br>
 ### Patents
 ---
 - CN113850414B. Method for Logistics Scheduling Planning Based on Graph Neural Networks and Reinforcement Learning. (First Inventor, Authorized)
-- CN114130034B. "Multi Agent Game AI Design Method Based on Attention Mechanism and Reinforcement Learning. (Fifth Inventor, Authorized)
+- CN114130034B. Multi Agent Game AI Design Method Based on Attention Mechanism and Reinforcement Learning. (Fifth Inventor, Authorized)
 - CN113947348A. A Method and Device for Order Allocation. (Second Inventor, Under Review)
 - CN113869489A. Complex Game AI Design Method Based on Hierarchical Deep Reinforcement Learning. (Third Inventor, Under Review)
 - CN113869488A. Reinforcement Learning Method for Game AI Agents in Continuous Discrete Mixed Decision Environments. (Third Inventor, Under Review)
@@ -154,9 +143,10 @@ AAAI 2023*. (`CCF A`)  <br>
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Invited Talks
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2023.12* Reining Generalization in Offline Reinforcement Learning via Representation Distinction. @DAI 2023
+- *2022.01* A hierarchical reinforcement learning based optimization framework for large scale dynamic
+pickup and delivery problems @RLChina
+
 
 <span class='anchor' id='-gzsx'></span>
 
