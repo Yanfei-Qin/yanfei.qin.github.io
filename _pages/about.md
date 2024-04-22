@@ -41,24 +41,59 @@ I'm interested in:
 
 ### Papers
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Kai Zhao, Jianye Hao, <b>Yi Ma</b>, Jinyi Liu, Yan Zheng, Zhaopeng Meng. <br>
+*ENOTO: Improving Offline-to-Online Reinforcement Learning with Q-Ensembles*. <br>
+IJCAI 2024. (`CCF A`)  <br>
+[[link]]()
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Kai Zhao, Jianye Hao, <b>Yi Ma</b>, Jinyi Liu, Yan Zheng, Zhaopeng Meng. <br>
+*ENOTO: Improving Offline-to-Online Reinforcement Learning with Q-Ensembles*. <br>
+IJCAI 2024. (`CCF A`)  <br>
+[[link]]()
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Yifu Yuan, Jianye Hao, <b>Yi Ma</b>, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng. <br>
+*Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback*. <br>
+ICLR 2024. (`Top AI Conference`)  <br>
+[[link]]()
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Yi Ma</b>, Hongyao Tang, Dong Li, Zhaopeng Meng. <br>
-Reining Generalization in Offline Reinforcement Learning via Representation Distinction. <br>
-*NeurIPS 2023*. (`CCF A`)  <br>
+*Reining Generalization in Offline Reinforcement Learning via Representation Distinction*. <br>
+NeurIPS 2023. (`CCF A`)  <br>
 [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/802a4350ca4fced76b13b8b320af1543-Abstract-Conference.html)
- <!-- [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/NeurIPS2023.pdf)  -->
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="100%" height="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="100%" height="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hebin Liang, Zibin Dong, <b>Yi Ma</b> , Xiaotian Hao, Yan Zheng, Jianye Hao. <br>
-A Hierarchical Imitation Learning-based Decision Framework for Autonomous Driving. <br>
-*CIKM 2023*. (`CCF B`)  <br>
+*A Hierarchical Imitation Learning-based Decision Framework for Autonomous Driving*. <br>
+CIKM 2023. (`CCF B`)  <br>
 [[link]](https://dl.acm.org/doi/10.1145/3583780.3615454) 
 
 
@@ -70,14 +105,27 @@ A Hierarchical Imitation Learning-based Decision Framework for Autonomous Drivin
 
 
 **Hebin Liang\*** , **Yi Ma\***, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
-SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem. <br>
-*AAAI 2023*. (`CCF A`)  <br>
+*SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem. <br>
+AAAI 2023*. (`CCF A`)  <br>
 [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26049) 
 
 
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Hebin Liang\*** , **Yi Ma\***, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
+*SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem. <br>
+AAAI 2023*. (`CCF A`)  <br>
+[[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26049) 
+
+
+</div>
+</div>
 
 
 
