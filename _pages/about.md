@@ -60,7 +60,7 @@ IJCAI 2024. (`CCF A`)  <br>
 Yifu Yuan, Jianye Hao, **Yi Ma**, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng. <br>
 *Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback*. <br>
 ICLR 2024. (`Top AI Conference`)  <br>
-[[link]]()
+[[link]](https://openreview.net/forum?id=WesY0H9ghM&referrer=%5Bthe%20profile%20of%20Jinyi%20Liu%5D(%2Fprofile%3Fid%3D~Jinyi_Liu1))
 
 </div>
 </div>
@@ -77,7 +77,7 @@ NeurIPS 2023. (`CCF A`)  <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="300" hheight="100"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hebin Liang, Zibin Dong, **Yi Ma**, Xiaotian Hao, Yan Zheng, Jianye Hao. <br>
