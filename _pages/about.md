@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hey, I'm Yi Ma, a 4th year PhD candidate of <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> in <a href="http://www.tju.edu.cn/">Tianjin University</a>. I'm a member of Professor <a href="http://www.icdai.org/jianye.html">Jianye Hao</a>'s <a href="http://www.icdai.org/">research group</a>. I have an research interest in offline reinforcement learning and application of RL. </p>
-    <p>Besides, I'm a huge fan of basketball, snowboarding and orienteering. I have published more than 20 papers in top AI conferences. <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+    <p>Besides, I'm a huge fan of basketball, snowboarding and orienteering. I have published more than 20 papers in top AI conferences. <a href='https://scholar.google.com/citations?user=TdVWzqgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 I'm interested in:
 - Reinforcement Learning
@@ -31,8 +31,9 @@ I'm interested in:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Tianjin University 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2020.09 - 2024.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.jpg" width="20pt"></a> Tianjin University, PhD 
+- *2018.09 - 2020.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.jpg" width="20pt"></a>  Tianjin University, Master 
+- *2014.09 - 2018.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.jpg" width="20pt"></a>  Tianjin University, Bachelor 
  
 <span class='anchor' id='-lwzl'></span>
 
