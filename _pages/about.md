@@ -117,7 +117,7 @@ CAAI Aritificial Intelligence Research 2023.  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='thumbs/IJCAI2022.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='thumbs/IJCAI2022.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -131,7 +131,7 @@ IJCAI 2022. (`CCF A`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='thumbs/NeurIPS2021.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='thumbs/NeurIPS2021.png' alt="sym" ></div></div>
 <div class='paper-box-text' markdown="1">
 
 
