@@ -45,7 +45,7 @@ I'm interested in:
 <div class='paper-box-text' markdown="1">
 
 -	`Yi Ma`, Hongyao Tang, Dong Li, Zhaopeng Meng. Reining Generalization in Offline Reinforcement Learning via Representation Distinction. *NeurIPS 2023*. (CCF A)  
-[[链接]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/802a4350ca4fced76b13b8b320af1543-Abstract-Conference.html) [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/illustration_of_insight.pdf) 
+[[链接]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/802a4350ca4fced76b13b8b320af1543-Abstract-Conference.html) [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/NeurIPS2023.pdf) 
 
 </div>
 </div>
@@ -53,8 +53,8 @@ I'm interested in:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	Hebin Liang, Zibin Dong, `Yi Ma`, Xiaotian Hao, Yan Zheng, Jianye Hao. A Hierarchical Imitation Learning-based Decision Framework for Autonomous Driving. *CIKM 2023*. (CCF B)  
+[[链接]](https://dl.acm.org/doi/10.1145/3583780.3615454) [[预览]](https://github.com/mamengyiyi/mamengyiyi.github.io/blob/main/pdf/CIKM2023.pdf) 
 
 </div>
 </div>
