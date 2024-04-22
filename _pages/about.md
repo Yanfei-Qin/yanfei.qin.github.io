@@ -42,10 +42,10 @@ I'm interested in:
 ### Papers
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym" width="100%" height="30px"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Kai Zhao, Jianye Hao, <b>Yi Ma</b>, Jinyi Liu, Yan Zheng, Zhaopeng Meng. <br>
+Kai Zhao, Jianye Hao, **Yi Ma**, Jinyi Liu, Yan Zheng, Zhaopeng Meng. <br>
 *ENOTO: Improving Offline-to-Online Reinforcement Learning with Q-Ensembles*. <br>
 IJCAI 2024. (`CCF A`)  <br>
 [[link]]()
@@ -55,9 +55,9 @@ IJCAI 2024. (`CCF A`)  <br>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="100%" height="30px"></div></div>
 <div class='paper-box-text' markdown="1">
-Yifu Yuan, Jianye Hao, <b>Yi Ma</b>, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng. <br>
+Yifu Yuan, Jianye Hao, **Yi Ma**, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng. <br>
 *Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback*. <br>
 ICLR 2024. (`Top AI Conference`)  <br>
 [[link]]()
@@ -66,10 +66,10 @@ ICLR 2024. (`Top AI Conference`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="100%" height="30px"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>Yi Ma</b>, Hongyao Tang, Dong Li, Zhaopeng Meng. <br>
+**Yi Ma**, Hongyao Tang, Dong Li, Zhaopeng Meng. <br>
 *Reining Generalization in Offline Reinforcement Learning via Representation Distinction*. <br>
 NeurIPS 2023. (`CCF A`)  <br>
 [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/802a4350ca4fced76b13b8b320af1543-Abstract-Conference.html)
@@ -77,10 +77,10 @@ NeurIPS 2023. (`CCF A`)  <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="100%" height="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="100%" hheight="30px"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hebin Liang, Zibin Dong, <b>Yi Ma</b> , Xiaotian Hao, Yan Zheng, Jianye Hao. <br>
+Hebin Liang, Zibin Dong, **Yi Ma**, Xiaotian Hao, Yan Zheng, Jianye Hao. <br>
 *A Hierarchical Imitation Learning-based Decision Framework for Autonomous Driving*. <br>
 CIKM 2023. (`CCF B`)  <br>
 [[link]](https://dl.acm.org/doi/10.1145/3583780.3615454) 
@@ -89,11 +89,11 @@ CIKM 2023. (`CCF B`)  <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="100%" height="30px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-**Hebin Liang\*** , **Yi Ma\***, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
+Hebin Liang\* , **Yi Ma\***, Zilin Cao, Tianyang Liu, Fei Ni, Zhigang Li, Jianye Hao. <br>
 *SplitNet: A Reinforcement Learning based Sequence Splitting Method for the MinMax Multiple Travelling Salesman Problem*. <br>
 AAAI 2023. (`CCF A`)  <br>
 [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26049) 
@@ -103,11 +103,11 @@ AAAI 2023. (`CCF A`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI AIR 2023</div><img src='thumbs/CAAI2023.png' alt="sym" width="100%" height="30px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-*Yi Ma*, Chao Wang, Chen Chen, Jinyi Liu, Zhaopeng Meng, Yan Zheng, Jianye Hao. <br>
+**Yi Ma**, Chao Wang, Chen Chen, Jinyi Liu, Zhaopeng Meng, Yan Zheng, Jianye Hao. <br>
 *OSCAR: OOD State Conservative Offline Reinforcement Learning for S equential Decision Making*. <br>
 CAAI Aritificial Intelligence Research 2023.  <br>
 [[link]](https://www.sciopen.com/article/10.26599/AIR.2023.9150020) 
@@ -116,6 +116,61 @@ CAAI Aritificial Intelligence Research 2023.  <br>
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='thumbs/IJCAI2022.png' alt="sym" width="100%" height="30px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Tong Sang, Hongyao Tang, **Yi Ma**, Jianye Hao, Yan Zheng, Zhaopeng Meng, Boyan Li, Zhen Wang. <br>
+*PAnDR: Fast Adaptation to New Environments from Offline Experiences via Decoupling Policy and Environment Representations*. <br>
+IJCAI 2022. (`CCF A`)  <br>
+[[link]](https://www.ijcai.org/proceedings/2022/0474.pdf) 
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='thumbs/NeurIPS2021.png' alt="sym" width="100%" height="30px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Yi Ma**, Xiaotian Hao\*, Jianye Hao, Jiawen Lu, Xing Liu, Tong Xialiang, Mingxuan Yuan, Zhigang Li, Jie Tang, Zhaopeng Meng.<br>
+*A hierarchical reinforcement learning based optimization framework for large scale dynamic pickup and delivery problems*. <br>
+NeurIPS 2021. (`CCF A`)  <br>
+[[link]](https://proceedings.neurips.cc/paper/2021/file/c6a01432c8138d46ba39957a8250e027-Paper.pdf) 
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2021</div><img src='thumbs/KDD2021.png' alt="sym" width="100%" height="30px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Fei Ni, Jianye Hao, Jiawen Lu, Xialiang Tong, Mingxuan Yuan, Jiahui Duan, **Yi Ma**, Kun He <br>
+*A Multi-Graph Attributed Reinforcement Learning based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem*. <br>
+KDD 2021. (`CCF A`)  <br>
+[[link]](https://dl.acm.org/doi/abs/10.1145/3447548.3467135) 
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2020</div><img src='thumbs/ICML2020.png' alt="sym" width="100%" height="30px"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Xiaotian Hao\*, Zhaoqing Peng\*, **Yi Ma\***, Guan Wang, Junqi Jin, Jianye Hao, Shan Chen, Rongquan Bai, Mingzhou Xie, Miao Xu, Zhenzhe Zheng, Chuan Yu, Han Li, Jian Xu, Kun Gai. <br>
+*Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising*. <br>
+ICML 2020. (`CCF A`)  <br>
+[[link]](https://proceedings.mlr.press/v119/hao20b/hao20b.pdf) 
+
+
+</div>
+</div>
 
 
 
