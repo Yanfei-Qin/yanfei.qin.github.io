@@ -42,7 +42,7 @@ I'm interested in:
 ### Papers
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Kai Zhao, Jianye Hao, **Yi Ma**, Jinyi Liu, Yan Zheng, Zhaopeng Meng. <br>
@@ -55,7 +55,7 @@ IJCAI 2024. (`CCF A`)  <br>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/ICLR2024.jpg' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 Yifu Yuan, Jianye Hao, **Yi Ma**, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, Yan Zheng. <br>
 *Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback*. <br>
@@ -66,7 +66,7 @@ ICLR 2024. (`Top AI Conference`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Yi Ma**, Hongyao Tang, Dong Li, Zhaopeng Meng. <br>
@@ -77,7 +77,7 @@ NeurIPS 2023. (`CCF A`)  <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="100" hheight="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="300" hheight="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hebin Liang, Zibin Dong, **Yi Ma**, Xiaotian Hao, Yan Zheng, Jianye Hao. <br>
@@ -89,7 +89,7 @@ CIKM 2023. (`CCF B`)  <br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -103,7 +103,7 @@ AAAI 2023. (`CCF A`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI AIR 2023</div><img src='thumbs/CAAI2023.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI AIR 2023</div><img src='thumbs/CAAI2023.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -117,7 +117,7 @@ CAAI Aritificial Intelligence Research 2023.  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='thumbs/IJCAI2022.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='thumbs/IJCAI2022.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -131,7 +131,7 @@ IJCAI 2022. (`CCF A`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='thumbs/NeurIPS2021.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='thumbs/NeurIPS2021.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -145,7 +145,7 @@ NeurIPS 2021. (`CCF A`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2021</div><img src='thumbs/KDD2021.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2021</div><img src='thumbs/KDD2021.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -159,7 +159,7 @@ KDD 2021. (`CCF A`)  <br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2020</div><img src='thumbs/ICML2020.png' alt="sym" width="100" height="30"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2020</div><img src='thumbs/ICML2020.png' alt="sym" width="300" height="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
