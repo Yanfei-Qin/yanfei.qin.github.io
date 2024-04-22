@@ -41,7 +41,7 @@ I'm interested in:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='pdf/NeurIPS2023.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='thumbs/NeurIPS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yi Ma`, Hongyao Tang, Dong Li, Zhaopeng Meng. <br>
@@ -53,7 +53,7 @@ Reining Generalization in Offline Reinforcement Learning via Representation Dist
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='pdf/CIKM2023.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='thumbs/CIKM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hebin Liang, Zibin Dong, `Yi Ma`, Xiaotian Hao, Yan Zheng, Jianye Hao. <br>
