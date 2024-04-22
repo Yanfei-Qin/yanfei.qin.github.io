@@ -191,21 +191,21 @@ ICML 2020. (`CCF A`)  <br>
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Competitions and Honors
-- *2022.12* NeurIPS 2022 SMARTS Autonomous Driving Competition. `First Prize` in both tracks. [[link]](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/)  
-- *2021.06* Huawei 2012 Central Research Institute Innovation Pioneer. `President's Award Second Prize`.
-- *2017.12*  Intel Cup National College Students Software Innovation Competition `National Finals Third prize`  
+- *2022.12*, NeurIPS 2022 SMARTS Autonomous Driving Competition. `First Prize` in both tracks. [[link]](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/)  
+- *2021.06*, Huawei 2012 Central Research Institute Innovation Pioneer. `President's Award Second Prize`.
+- *2017.12*,  Intel Cup National College Students Software Innovation Competition `National Finals Third prize`  
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Invited Talks
-- *2023.12* Reining Generalization in Offline Reinforcement Learning via Representation Distinction. @DAI 2023
-- *2022.01* A hierarchical reinforcement learning based optimization framework for large scale dynamic
+- *2023.12*, Reining Generalization in Offline Reinforcement Learning via Representation Distinction. @DAI 2023
+- *2022.01*, A hierarchical reinforcement learning based optimization framework for large scale dynamic
 pickup and delivery problems @RLChina
 
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internships
-- *2020.11-2023.11* Huawei Noah’s Ark Lab, Decision and Reasoning Team.
-- *2020.04-2020.10* Huawei Noah’s Ark Lab, Enterprise Intelligence Team.
-- *2019.07-2019.12* Alibaba, Alimama Target Advertising Team.
+- *2020.11-2023.11*, Huawei Noah’s Ark Lab, Decision and Reasoning Team.
+- *2020.04-2020.10*, Huawei Noah’s Ark Lab, Enterprise Intelligence Team.
+- *2019.07-2019.12*, Alibaba, Alimama Target Advertising Team.
