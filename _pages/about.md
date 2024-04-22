@@ -65,7 +65,7 @@ A Hierarchical Imitation Learning-based Decision Framework for Autonomous Drivin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='thumbs/AAAI2023.png' alt="sym" width="100%" height="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
