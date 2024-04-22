@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, I'm Yi Ma, a 4th year PhD candidate of <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> in <a href="http://www.tju.edu.cn/">Tianjin University</a>. I'm a member of Professor <a href="http://www.icdai.org/jianye.html">Jianye Hao</a>'s <a href="http://www.icdai.org/">research group</a>. I have an research interest in offline reinforcement learning and application of RL. </p>
-    <p>Besides, I'm a huge fan of basketball, snowboarding and orienteering. I have published more than 20 papers in top AI conferences. <a href='https://scholar.google.com/citations?user=TdVWzqgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Hey, I'm Yi Ma, a 4th year PhD candidate of <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> in <a href="http://www.tju.edu.cn/">Tianjin University</a>. I'm a member of Professor <a href="http://www.icdai.org/jianye.html">Jianye Hao</a>'s <a href="http://www.icdai.org/">research group</a>. I have an research interest in offline reinforcement learning and application of RL. Besides, I'm a huge fan of basketball, snowboarding and orienteering. I have published more than 20 papers in top AI conferences. <a href='https://scholar.google.com/citations?user=TdVWzqgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 I'm interested in:
 - Reinforcement Learning
