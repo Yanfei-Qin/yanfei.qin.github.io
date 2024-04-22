@@ -133,19 +133,13 @@ AAAI 2023*. (`CCF A`)  <br>
 
 ### Patents
 ---
-- CN113850414B: "Method for Logistics Scheduling Planning Based on Graph Neural Networks and Reinforcement
-Learning" (First Inventor, Authorized)
-- CN114130034B: "Multi Agent Game AI Design Method Based on Attention Mechanism and Reinforcement
-Learning" (Fifth Inventor, Authorized)
-- CN113947348A: "A Method and Device for Order Allocation" (Second Inventor, Under Review)
-- CN113869489A: "Complex Game AI Design Method Based on Hierarchical Deep Reinforcement Learning" (Third
-Inventor, Under Review)
-- CN113869488A: "Reinforcement Learning Method for Game AI Agents in Continuous Discrete Mixed Decision
-Environments" (Third Inventor, Under Review)
-- CN114169421A: "Cooperative Exploration Method in Sparse Reward Environments for Multi Agent Systems Based
-on Intrinsic Motivation" (Fourth Inventor, Under Review)
-- CN114139681A: "Meta Reinforcement Learning Method Based on Contrastive Learning and Mutual Information"
-(Fourth Inventor, Under
+- CN113850414B. Method for Logistics Scheduling Planning Based on Graph Neural Networks and Reinforcement Learning. (First Inventor, Authorized)
+- CN114130034B. "Multi Agent Game AI Design Method Based on Attention Mechanism and Reinforcement Learning. (Fifth Inventor, Authorized)
+- CN113947348A. A Method and Device for Order Allocation. (Second Inventor, Under Review)
+- CN113869489A. Complex Game AI Design Method Based on Hierarchical Deep Reinforcement Learning. (Third Inventor, Under Review)
+- CN113869488A. Reinforcement Learning Method for Game AI Agents in Continuous Discrete Mixed Decision Environments. (Third Inventor, Under Review)
+- CN114169421A. Cooperative Exploration Method in Sparse Reward Environments for Multi Agent Systems Based on Intrinsic Motivation. (Fourth Inventor, Under Review)
+- CN114139681A. Meta Reinforcement Learning Method Based on Contrastive Learning and Mutual Information. (Fourth Inventor, Under Review)
 
 
 
