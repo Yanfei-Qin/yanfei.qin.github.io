@@ -39,7 +39,7 @@ I'm interested in:
 
 # 📝 Selected Publications
 
-### Papers and 
+### Papers
 ---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym"></div></div>
