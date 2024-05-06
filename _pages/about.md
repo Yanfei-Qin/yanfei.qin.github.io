@@ -40,7 +40,7 @@ I'm interested in:
 
 ### Papers
 ---
-PS: Authors with equal contribution are marked by *.
+PS: Authors with equal contribution are marked by \*.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='thumbs/ICML2024_01.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
