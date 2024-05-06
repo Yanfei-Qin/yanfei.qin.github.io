@@ -33,13 +33,36 @@ I'm interested in:
 - *2020.09 - 2024.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.jpg" width="20pt"></a> Tianjin University, PhD 
 - *2018.09 - 2020.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.jpg" width="20pt"></a>  Tianjin University, Master 
 - *2014.09 - 2018.06*, <a href="https://www.tju.edu.cn/"><img class="svg" src="/images/tju_logo.jpg" width="20pt"></a>  Tianjin University, Bachelor 
- 
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Selected Publications
 
 ### Papers
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='thumbs/ICML2024_01.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Yi Ma**, Jianye Hao,  Chenjun Xiao, Hebin Liang. <br>
+*Rethinking Decision Transformer via Hierarchical Reinforcement Learning*. <br>
+ICML 2024. (`CCF A`)  <br>
+[[link]](https://arxiv.org/abs/2311.00267)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='thumbs/ICML2024_02.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Jiashun Liu, Jianye HAO, **Yi Ma**, Shuyin Xia. <br>
+*Imagine Big from Small: Unlock the Cognitive Generalization of Deep Reinforcement Learning from Simple Scenarios*. <br>
+ICML 2024. (`CCF A`)  <br>
+[[link]]()
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='thumbs/IJCAI2024.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -205,6 +228,6 @@ pickup and delivery problems @RLChina
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internships
-- *2020.11-2023.11*, Huawei Noah’s Ark Lab, Decision and Reasoning Team.
-- *2020.04-2020.10*, Huawei Noah’s Ark Lab, Enterprise Intelligence Team.
-- *2019.07-2019.12*, Alibaba, Alimama Target Advertising Team.
+- *2020.11-2023.11*, Huawei Noah’s Ark Lab, Decision and Reasoning Team. Supervised by Chenjun Xiao, Dong Li, Chen Chen and Chao Wang.
+- *2020.04-2020.10*, Huawei Noah’s Ark Lab, Enterprise Intelligence Team. Supervised by  Jiawen Lu.
+- *2019.07-2019.12*, Alibaba, Alimama Target Advertising Team.  Supervised by Junqi Jin.
