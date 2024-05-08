@@ -45,7 +45,7 @@ PS: Authors with equal contribution are marked by \*.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='thumbs/ICML2024_01.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Yi Ma**, Jianye Hao,  Chenjun Xiao, Hebin Liang. <br>
+**Yi Ma**, Jianye Hao, Hebin Liang,  Chenjun Xiao. <br>
 *Rethinking Decision Transformer via Hierarchical Reinforcement Learning*. <br>
 ICML 2024. (`CCF A`)  <br>
 [[link]](https://arxiv.org/abs/2311.00267)
