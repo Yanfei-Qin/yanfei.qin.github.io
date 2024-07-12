@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, I'm Yi Ma, a 4th year PhD candidate of <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> in <a href="http://www.tju.edu.cn/">Tianjin University</a>. I'm a member of Professor <a href="http://www.icdai.org/jianye.html">Jianye Hao</a>'s <a href="http://www.icdai.org/">research group</a>. I have an research interest in offline reinforcement learning and application of RL. Besides, I'm a huge fan of basketball, snowboarding and orienteering. I have published more than 20 papers in top AI conferences. <a href='https://scholar.google.com/citations?user=TdVWzqgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Hey, I'm Yi Ma, working at Shanxi University as an associate professor. I received my PhD degree at June 2024 in <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> of <a href="http://www.tju.edu.cn/">Tianjin University</a>. I used to be supervised by Professor <a href="http://www.icdai.org/jianye.html">Jianye Hao</a> in his <a href="http://www.icdai.org/">research group</a>.  I have published more than 20 papers in top AI conferences. <a href='https://scholar.google.com/citations?user=TdVWzqgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>  Besides, I'm a huge fan of basketball, snowboarding and orienteering.
 
 I'm interested in:
 - Reinforcement Learning
 - Offline Reinforcement Learning
+- Embodied AI
 - Application of Deep Reinforcement Learning
 
-  
+If you're interested in these domains, please send me your CV.
 
 
 <span class='anchor' id='-xl'></span>
@@ -204,8 +205,8 @@ ICML 2020. (`CCF A`)  <br>
 - CN113850414B. Method for Logistics Scheduling Planning Based on Graph Neural Networks and Reinforcement Learning. (First Inventor, Authorized)
 - CN114130034B. Multi Agent Game AI Design Method Based on Attention Mechanism and Reinforcement Learning. (Fifth Inventor, Authorized)
 - CN113947348A. A Method and Device for Order Allocation. (Second Inventor, Under Review)
-- CN113869489A. Complex Game AI Design Method Based on Hierarchical Deep Reinforcement Learning. (Third Inventor, Under Review)
-- CN113869488A. Reinforcement Learning Method for Game AI Agents in Continuous Discrete Mixed Decision Environments. (Third Inventor, Under Review)
+- CN113869489A. Complex Game AI Design Method Based on Hierarchical Deep Reinforcement Learning. (Third Inventor, Authorized)
+- CN113869488A. Reinforcement Learning Method for Game AI Agents in Continuous Discrete Mixed Decision Environments. (Third Inventor, Authorized)
 - CN114169421A. Cooperative Exploration Method in Sparse Reward Environments for Multi Agent Systems Based on Intrinsic Motivation. (Fourth Inventor, Under Review)
 - CN114139681A. Meta Reinforcement Learning Method Based on Contrastive Learning and Mutual Information. (Fourth Inventor, Under Review)
 
@@ -222,6 +223,7 @@ ICML 2020. (`CCF A`)  <br>
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Invited Talks
+- *2024.7*, Transformer-based Models in Decision Making. @NJU
 - *2023.12*, Reining Generalization in Offline Reinforcement Learning via Representation Distinction. @DAI 2023
 - *2022.01*, A hierarchical reinforcement learning based optimization framework for large scale dynamic
 pickup and delivery problems @RLChina
