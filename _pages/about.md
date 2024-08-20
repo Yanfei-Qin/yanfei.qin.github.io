@@ -225,6 +225,7 @@ ICML 2020. (`CCF A`)  <br>
 # 🏛️ Invited Talks
 - *2024.7*, Transformer-based Models in Decision Making. @NJU
 - *2023.12*, Reining Generalization in Offline Reinforcement Learning via Representation Distinction. @DAI 2023
+- 2022.11, The Difficulty of Passive Learning in Deep Reinforcement Learning. @Huawei, Chaspark 
 - *2022.01*, A hierarchical reinforcement learning based optimization framework for large scale dynamic
 pickup and delivery problems @RLChina
 
@@ -232,6 +233,15 @@ pickup and delivery problems @RLChina
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internships
+- *2020.11-2023.11*, Qiyuan Lab, AI Foundation Team. Supervised by Chen Chen.
 - *2020.11-2023.11*, Huawei Noah’s Ark Lab, Decision and Reasoning Team. Supervised by Chenjun Xiao, Dong Li, Chen Chen and Chao Wang.
 - *2020.04-2020.10*, Huawei Noah’s Ark Lab, Enterprise Intelligence Team. Supervised by  Jiawen Lu.
 - *2019.07-2019.12*, Alibaba, Alimama Target Advertising Team.  Supervised by Junqi Jin.
+
+#  Academic Service
+
+- Reviewer for Conferences: ICML, ICLR, NeurIPS, AAAI, IJCAI, AAMAS, DAI, CIKM.
+
+- Student Contactor of RLChina.
+
+  
