@@ -43,6 +43,41 @@ If you're interested in these domains, please send me your CV.
 ---
 PS: Authors with equal contribution are marked by \*.
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='thumbs/NeurIPS2024_01.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Yi Ma**, Jianye Hao, Xiaohan Hu, Yan Zheng,  Chenjun Xiao. <br>
+*Iteratively Refined Behavior Regularization for Offline Reinforcement Learning*. <br>
+NeurIPS 2024. (`CCF A`)  <br>
+[[link]]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='thumbs/NeurIPS2024_02.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Jiashun Liu, Jianye Hao, Xiaotian Hao, **Yi Ma**,  Yan Zheng, Yujing Hu, Tangjie Lv. <br>
+*Unlock the Intermittent Control Ability of Model Free Reinforcement Learning*. <br>
+NeurIPS 2024. (`CCF A`)  <br>
+[[link]]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 </div><img src='thumbs/NeurIPS2024_03.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zibin Dong, Yifu Yuan, Jianye Hao, Fei Ni, **Yi Ma**, Pengyi Li, Yan Zheng. <br>
+*CleanDiffuser: An Easy-to-use Modularized Library for Diffusion Models in Decision Making*. <br>
+NeurIPS 2024 Datasets and Benchmarks Track. (`CCF A`)  <br>
+[[link]]()
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='thumbs/ICML2024_01.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
