@@ -76,7 +76,7 @@ If you're interested in these domains, please send me your CV.
     <span class="time-column">2020.09 - 2025.06</span>
     <span class="logo-column">
       <a href="https://www.ustb.edu.cn/" target="_blank">
-        <img src="/images/logo/北科_logo.jpeg" alt="北京科技大学">
+        <img src="/images/logo/北科_logo.jpeg" alt="北京科技大学" width="20">
       </a>
     </span>
     <span class="org-column">北京科技大学</span>
@@ -87,7 +87,7 @@ If you're interested in these domains, please send me your CV.
     <span class="time-column">2019.07 - 2020.09</span>
     <span class="logo-column">
       <a href="https://www.suning.com/" target="_blank">
-        <img src="/images/logo/苏宁_logo.jpeg" alt="苏宁科技">
+        <img src="/images/logo/苏宁_logo.jpeg" alt="苏宁科技" width="20">
       </a>
     </span>
     <span class="org-column">苏宁科技集团/海研自动化科技有限公司</span>
@@ -98,7 +98,7 @@ If you're interested in these domains, please send me your CV.
     <span class="time-column">2017.09 - 2019.06</span>
     <span class="logo-column">
       <a href="https://www.bjtu.edu.cn/" target="_blank">
-        <img src="/images/logo/北交_logo.jpeg" alt="北京交通大学">
+        <img src="/images/logo/北交_logo.jpeg" alt="北京交通大学" width="20">
       </a>
     </span>
     <span class="org-column">北京交通大学</span>
@@ -109,7 +109,7 @@ If you're interested in these domains, please send me your CV.
     <span class="time-column">2013.09 - 2017.06</span>
     <span class="logo-column">
       <a href="https://www.nuc.edu.cn/" target="_blank">
-        <img src="/images/logo/中北_logo.jpeg" alt="中北大学">
+        <img src="/images/logo/中北_logo.jpeg" alt="中北大学" width="20">
       </a>
     </span>
     <span class="org-column">中北大学</span>
