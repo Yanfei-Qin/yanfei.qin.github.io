@@ -17,19 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey, I'm Yi Ma, working at Shanxi University as an associate professor. I received my PhD degree at June 2024 in <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> of <a href="http://www.tju.edu.cn/">Tianjin University</a>. I used to be supervised by Professor <a href="http://www.icdai.org/jianye.html">Jianye Hao</a> in his <a href="http://www.icdai.org/">research group</a>.  I have published more than 20 papers in top AI conferences. <a href='https://scholar.google.com/citations?user=TdVWzqgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>  Besides, I'm a huge fan of basketball, snowboarding and orienteering.
-
-研究方向:
-- 深度学习
-- 计算机视觉
-- 小样本学习
-
-
-If you're interested in these domains, please send me your CV.
-
-
-<span class='anchor' id='-xl'></span>
-
 # 🎓 Education
 <style>
   .timeline-container {
@@ -118,6 +105,14 @@ If you're interested in these domains, please send me your CV.
 </div>
 
 <span class='anchor' id='-lwzl'></span>
+
+<span class='anchor' id='-xl'></span>
+# ✨ Research Direction
+研究方向:
+- 深度学习
+- 计算机视觉
+- 小样本学习
+
 
 # 📝 Selected Publications
 
