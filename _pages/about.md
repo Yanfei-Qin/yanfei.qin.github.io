@@ -32,53 +32,58 @@ If you're interested in these domains, please send me your CV.
 
 # 🎓 Education
 <style>
+  .timeline-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
   .timeline-item {
     display: flex;
     align-items: center;  /* 垂直居中 */
     margin: 15px 0;
     line-height: 1.6;
   }
-  .timeline-period {
-    font-style: italic;
-    min-width: 180px;  /* 固定时间宽度保持对齐 */
-    text-align: right;
-    padding-right: 20px;
+  .timeline-column {
+    flex: 1;
+    min-width: 180px;
+    text-align: center;
+    padding: 0 10px;
   }
   .timeline-logo {
     margin: 0 15px;
     vertical-align: middle;
-  }
-  .timeline-content {
-    flex-grow: 1;
+    flex: 0 0 20px;
   }
 </style>
 
-<div class="timeline-item">
-  <span class="timeline-period">2020.09 - 2025.06</span>
-  <a href="https://www.ustb.edu.cn/"><img class="timeline-logo" src="/images/logo/北科_logo.jpeg" width="20"></a>
-  <span class="timeline-period">北京科技大学</span>
-  <span class="timeline-period">博士</span>
-</div>
+<div class="timeline-container">
+  <div class="timeline-item">
+    <span class="timeline-column">2020.09 - 2025.06</span>
+    <a href="https://www.ustb.edu.cn/"><img class="timeline-logo" src="/images/logo/北科_logo.jpeg" width="20"></a>
+    <span class="timeline-column">北京科技大学</span>
+    <span class="timeline-column">博士</span>
+  </div>
 
-<div class="timeline-item">
-  <span class="timeline-period">2019.07 - 2020.09</span>
-  <a href="https://www.suning.com/"><img class="timeline-logo" src="/images/logo/苏宁_logo.jpeg" width="20"></a>
-  <span class="timeline-period">苏宁科技集团/海研自动化科技有限公司</span>
-  <span class="timeline-period">图像算法工程师</span>
-</div>
+  <div class="timeline-item">
+    <span class="timeline-column">2019.07 - 2020.09</span>
+    <a href="https://www.suning.com/"><img class="timeline-logo" src="/images/logo/苏宁_logo.jpeg" width="20"></a>
+    <span class="timeline-column">苏宁科技集团/海研自动化科技有限公司</span>
+    <span class="timeline-column">图像算法工程师</span>
+  </div>
 
-<div class="timeline-item">
-  <span class="timeline-period">2017.09 - 2019.06</span>
-  <a href="https://www.bjtu.edu.cn/"><img class="timeline-logo" src="/images/logo/北交_logo.jpeg" width="20"></a>
-  <span class="timeline-period">北京交通大学</span>
-  <span class="timeline-period">硕士</span>
-</div>
+  <div class="timeline-item">
+    <span class="timeline-column">2017.09 - 2019.06</span>
+    <a href="https://www.bjtu.edu.cn/"><img class="timeline-logo" src="/images/logo/北交_logo.jpeg" width="20"></a>
+    <span class="timeline-column">北京交通大学</span>
+    <span class="timeline-column">硕士</span>
+  </div>
 
-<div class="timeline-item">
-  <span class="timeline-period">2013.09 - 2017.06</span>
-  <a href="https://www.nuc.edu.cn/"><img class="timeline-logo" src="/images/logo/中北_logo.jpeg" width="20"></a>
-  <span class="timeline-period">中北大学</span>
-  <span class="timeline-period">学士</span>
+  <div class="timeline-item">
+    <span class="timeline-column">2013.09 - 2017.06</span>
+    <a href="https://www.nuc.edu.cn/"><img class="timeline-logo" src="/images/logo/中北_logo.jpeg" width="20"></a>
+    <span class="timeline-column">中北大学</span>
+    <span class="timeline-column">学士</span>
+  </div>
 </div>
 - *2020.09 - 2025.06*, <a href="https://www.ustb.edu.cn/"><img class="svg" src="/images/logo/北科_logo.jpeg" width="20pt"></a> 北京科技大学, 博士 
 - *2019.07 - 2020.09*, <a href="https://www.suning.com/"><img class="svg" src="/images/logo/苏宁_logo.jpeg" width="20pt"></a>  苏宁科技集团/海研自动化科技有限公司, 图像算法工程师 
