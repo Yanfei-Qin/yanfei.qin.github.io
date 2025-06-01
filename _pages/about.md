@@ -56,29 +56,29 @@ If you're interested in these domains, please send me your CV.
 <div class="timeline-item">
   <span class="timeline-period">2020.09 - 2025.06</span>
   <a href="https://www.ustb.edu.cn/"><img class="timeline-logo" src="/images/logo/北科_logo.jpeg" width="20"></a>
-  <span class="timeline-item">北京科技大学</span>
-  <span class="timeline-item">博士</span>
+  <span class="timeline-period">北京科技大学</span>
+  <span class="timeline-period">博士</span>
 </div>
 
 <div class="timeline-item">
   <span class="timeline-period">2019.07 - 2020.09</span>
   <a href="https://www.suning.com/"><img class="timeline-logo" src="/images/logo/苏宁_logo.jpeg" width="20"></a>
-  <span class="timeline-item">苏宁科技集团/海研自动化科技有限公司</span>
-  <span class="timeline-item">图像算法工程师</span>
+  <span class="timeline-period">苏宁科技集团/海研自动化科技有限公司</span>
+  <span class="timeline-period">图像算法工程师</span>
 </div>
 
 <div class="timeline-item">
   <span class="timeline-period">2017.09 - 2019.06</span>
   <a href="https://www.bjtu.edu.cn/"><img class="timeline-logo" src="/images/logo/北交_logo.jpeg" width="20"></a>
-  <span class="timeline-item">北京交通大学</span>
-  <span class="timeline-item">硕士</span>
+  <span class="timeline-period">北京交通大学</span>
+  <span class="timeline-period">硕士</span>
 </div>
 
 <div class="timeline-item">
   <span class="timeline-period">2013.09 - 2017.06</span>
   <a href="https://www.nuc.edu.cn/"><img class="timeline-logo" src="/images/logo/中北_logo.jpeg" width="20"></a>
-  <span class="timeline-item">中北大学</span>
-  <span class="timeline-item">学士</span>
+  <span class="timeline-period">中北大学</span>
+  <span class="timeline-period">学士</span>
 </div>
 - *2020.09 - 2025.06*, <a href="https://www.ustb.edu.cn/"><img class="svg" src="/images/logo/北科_logo.jpeg" width="20pt"></a> 北京科技大学, 博士 
 - *2019.07 - 2020.09*, <a href="https://www.suning.com/"><img class="svg" src="/images/logo/苏宁_logo.jpeg" width="20pt"></a>  苏宁科技集团/海研自动化科技有限公司, 图像算法工程师 
