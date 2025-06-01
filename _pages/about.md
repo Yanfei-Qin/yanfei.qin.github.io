@@ -36,59 +36,84 @@ If you're interested in these domains, please send me your CV.
     display: flex;
     flex-direction: column;
     width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
   }
   .timeline-item {
     display: flex;
     align-items: center;
-    margin: 5px 0;       /* 减少行间距 */
+    margin: 8px 0;
   }
-  .timeline-period {
-    flex: 0 0 160px;     /* 固定时间列宽度（按最长日期调整） */
+  .time-column {
+    flex: 0 0 180px;
     text-align: right;
-    padding-right: 10px; /* 仅右侧留一点间距 */
+    padding-right: 15px;
   }
-  .timeline-logo {
-    flex: 0 0 20px;      /* 固定 logo 宽度 */
-    margin: 0 8px;       /* 减少 logo 左右间距 */
+  .logo-column {
+    flex: 0 0 40px;
+    text-align: center;
   }
-  .timeline-org {
-    flex: 1;             /* 机构名称自适应，但占用剩余空间 */
-    text-align: left;
-    padding-right: 10px; /* 避免紧贴下一列 */
+  .logo-column img {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
   }
-  .timeline-degree {
-    flex: 0 0 120px;     /* 固定学位/职位列宽度 */
-    text-align: left;
+  .org-column {
+    flex: 0 0 300px;
+    text-align: center;
+    padding: 0 15px;
+  }
+  .degree-column {
+    flex: 0 0 150px;
+    text-align: center;
+    padding-left: 15px;
   }
 </style>
 
 <div class="timeline-container">
   <div class="timeline-item">
-    <span class="timeline-period">2020.09 - 2025.06</span>
-    <a href="https://www.ustb.edu.cn/"><img class="timeline-logo" src="/images/logo/北科_logo.jpeg" width="20"></a>
-    <span class="timeline-org">北京科技大学</span>
-    <span class="timeline-degree">博士</span>
+    <span class="time-column">2020.09 - 2025.06</span>
+    <span class="logo-column">
+      <a href="https://www.ustb.edu.cn/" target="_blank">
+        <img src="/images/logo/北科_logo.jpeg" alt="北京科技大学">
+      </a>
+    </span>
+    <span class="org-column">北京科技大学</span>
+    <span class="degree-column">博士</span>
   </div>
 
   <div class="timeline-item">
-    <span class="timeline-period">2019.07 - 2020.09</span>
-    <a href="https://www.suning.com/"><img class="timeline-logo" src="/images/logo/苏宁_logo.jpeg" width="20"></a>
-    <span class="timeline-org">苏宁科技集团/海研自动化科技有限公司</span>
-    <span class="timeline-degree">图像算法工程师</span>
+    <span class="time-column">2019.07 - 2020.09</span>
+    <span class="logo-column">
+      <a href="https://www.suning.com/" target="_blank">
+        <img src="/images/logo/苏宁_logo.jpeg" alt="苏宁科技">
+      </a>
+    </span>
+    <span class="org-column">苏宁科技集团/海研自动化科技有限公司</span>
+    <span class="degree-column">图像算法工程师</span>
   </div>
 
   <div class="timeline-item">
-    <span class="timeline-period">2017.09 - 2019.06</span>
-    <a href="https://www.bjtu.edu.cn/"><img class="timeline-logo" src="/images/logo/北交_logo.jpeg" width="20"></a>
-    <span class="timeline-org">北京交通大学</span>
-    <span class="timeline-degree">硕士</span>
+    <span class="time-column">2017.09 - 2019.06</span>
+    <span class="logo-column">
+      <a href="https://www.bjtu.edu.cn/" target="_blank">
+        <img src="/images/logo/北交_logo.jpeg" alt="北京交通大学">
+      </a>
+    </span>
+    <span class="org-column">北京交通大学</span>
+    <span class="degree-column">硕士</span>
   </div>
 
   <div class="timeline-item">
-    <span class="timeline-period">2013.09 - 2017.06</span>
-    <a href="https://www.nuc.edu.cn/"><img class="timeline-logo" src="/images/logo/中北_logo.jpeg" width="20"></a>
-    <span class="timeline-org">中北大学</span>
-    <span class="timeline-degree">学士</span>
+    <span class="time-column">2013.09 - 2017.06</span>
+    <span class="logo-column">
+      <a href="https://www.nuc.edu.cn/" target="_blank">
+        <img src="/images/logo/中北_logo.jpeg" alt="中北大学">
+      </a>
+    </span>
+    <span class="org-column">中北大学</span>
+    <span class="degree-column">学士</span>
   </div>
 </div>
 
