@@ -65,7 +65,7 @@ If you're interested in these domains, please send me your CV.
     padding: 0 15px;
   }
   .degree-column {
-    flex: 0 0 150px;
+    flex: 0 0 120px;
     text-align: center;
     padding-left: 15px;
   }
