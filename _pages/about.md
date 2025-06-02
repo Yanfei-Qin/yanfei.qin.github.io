@@ -23,8 +23,7 @@ redirect_from:
     flex-direction: column;
     width: 100%;
     max-width: 900px;
-    margin: 0 auto;
-    padding-left: -20px;  /* ← 添加这一行 */
+    margin: 0;
     font-family: Arial, sans-serif;
   }
   .timeline-item {
