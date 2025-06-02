@@ -2,16 +2,16 @@
 main:
 
   - title: "Education"
-    url: "/#-Education"
+    url: "/#Education"
 
   - title: "Selected Publications"
-    url: "/#-Selected Publications"
+    url: "/#Selected Publications"
 
   - title: "Competitions and Honors"
-    url: "/#-Competitions and Honors"
+    url: "/#Competitions and Honors"
 
   - title: "Invited Talks"
-    url: "/#-Invited Talks"
+    url: "/#Invited Talks"
 
   - title: "Internships"
-    url: "/#-Internships"
+    url: "/#Internships"
