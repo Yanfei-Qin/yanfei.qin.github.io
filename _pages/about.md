@@ -127,7 +127,7 @@ redirect_from:
 
 ## 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='thumbs/NeurIPS2024_01.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/OTDE.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **秦雁飞**, 刘宝林. <br>
