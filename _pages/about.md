@@ -133,7 +133,7 @@ redirect_from:
 **秦雁飞**, 刘宝林. <br>
 *OTDE: optimal transport distribution enhancement for few-shot video recognition[J]. Applied Intelligence, 2023, 53(13): 17115-17127.*<br>
 IF=5.3，中科院2区, JCR Q2.<br>
-[[link]]()
+[[link]](https://link.springer.com/article/10.1007/s10489-022-04369-4)
 
 </div>
 </div>
@@ -144,7 +144,7 @@ IF=5.3，中科院2区, JCR Q2.<br>
 **秦雁飞**, 刘宝林. <br>
 *TFRS: A task-level feature rectification and separation method for few-shot video action recognition[J]. Neural Networks, 2024, 176: 106326.*<br>
 IF=7.8，中科院1区, JCR Q1.<br>
-[[link]]()
+[[link]](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002508)
 
 </div>
 </div>
@@ -155,7 +155,7 @@ IF=7.8，中科院1区, JCR Q1.<br>
 **秦雁飞**, 刘宝林. <br>
 *KDM: A knowledge-guided and data-driven method for few-shot video action recognition[J]. Neurocomputing, 2022, 510: 69-78.*<br>
 IF=6，中科院2区, JCR Q1.<br>
-[[link]]()
+[[link]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010980)
 
 </div>
 </div>
@@ -166,7 +166,7 @@ IF=6，中科院2区, JCR Q1.<br>
 **秦雁飞**, 刘宝林. <br>
 *Advancing Incremental Few-Shot Video Action Recognition with Cluster Compression and Generative Separation[J]. International Journal of Pattern Recognition and Artificial Intelligence, 2024, 38(14): 2455013.*<br>
 IF=0.9，中科院4区，JCR Q3.
-[[link]]()
+[[link]](https://www.worldscientific.com/doi/abs/10.1142/S0218001424550139)
 
 </div>
 </div>
