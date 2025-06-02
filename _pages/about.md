@@ -97,7 +97,6 @@ redirect_from:
     </span>
     <a class="org-column" href="https://www.bjtu.edu.cn/" target="_blank" style="color: #007bff; text-decoration: none;">北京交通大学</a>
     <a class="xy1-column" href="https://eie.bjtu.edu.cn/" target="_blank" style="color: #007bff; text-decoration: none;">电子信息工程学院</a>
-    <span class="xy1-column"></span>
     <span class="xy2-column">电子与通信工程</span>
     <span class="degree-column">硕士</span>
   </div>
@@ -110,7 +109,7 @@ redirect_from:
       </a>
     </span>
     <a class="org-column" href="https://www.nuc.edu.cn/" target="_blank" style="color: #007bff; text-decoration: none;">中北大学</a>
-    <a class="xy1-column" href="https://5y.nuc.edu.cn/" target="_blank" style="color: #007bff; text-decoration: none;">电子信息工程学院</a>
+    <a class="xy1-column" href="https://5y.nuc.edu.cn/" target="_blank" style="color: #007bff; text-decoration: none;">信息与通信工程学院</a>
     <span class="xy2-column">光电信息科学与技术</span>
     <span class="degree-column">学士</span>
   </div>
