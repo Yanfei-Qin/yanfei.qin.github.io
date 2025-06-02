@@ -50,7 +50,7 @@ redirect_from:
     padding: 0 15px;
   }
   .xy2-column {
-    flex: 0 0 160px;
+    flex: 0 0 180px;
     text-align: center;
     padding: 0 15px;
   }
