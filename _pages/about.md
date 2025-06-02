@@ -113,7 +113,6 @@ redirect_from:
 
 <span class='anchor' id='Research Direction'></span>
 # ✨ Research Direction
-研究方向:
 - 深度学习
 - 计算机视觉
 - 小样本学习
