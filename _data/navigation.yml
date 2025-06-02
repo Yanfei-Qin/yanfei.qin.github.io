@@ -3,7 +3,10 @@ main:
 
   - title: "Education"
     url: "/#Education"
-
+    
+  - title: "Research Direction"
+    url: "/#Research Direction"
+    
   - title: "Selected Publications"
     url: "/#Selected Publications"
 
@@ -15,3 +18,5 @@ main:
 
   - title: "Internships"
     url: "/#Internships"
+
+  
