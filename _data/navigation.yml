@@ -5,16 +5,16 @@ main:
     url: "/#Education"
     
   - title: "Research Direction"
-    url: "/#Research Direction"
+    url: "/#Research_Direction"
     
   - title: "Selected Publications"
-    url: "/#Selected Publications"
+    url: "/#Selected_Publications"
 
   - title: "Competitions and Honors"
-    url: "/#Competitions and Honors"
+    url: "/#Competitions_and_Honors"
 
   - title: "Invited Talks"
-    url: "/#Invited Talks"
+    url: "/#Invited_Talks"
 
   - title: "Internships"
     url: "/#Internships"
