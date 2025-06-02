@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+g# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -24,7 +24,7 @@ author:
   name             : "秦雁飞"
   avatar           : "images/photo.jpg"
   bio              : "Show me the code!"
-  location         : "Shanxi Taiyuan"
+  location         : "Beijing"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9IDov_8AAAAJ"
