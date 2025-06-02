@@ -125,16 +125,13 @@ redirect_from:
 <span class='anchor' id='Selected Publications'></span>
 # 📝 Selected Publications
 
-### Papers
----
-PS: Authors with equal contribution are marked by \*.
+## 论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='thumbs/NeurIPS2024_01.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Yi Ma**, Jianye Hao, Xiaohan Hu, Yan Zheng,  Chenjun Xiao. <br>
-*Iteratively Refined Behavior Regularization for Offline Reinforcement Learning*. <br>
-NeurIPS 2024. (`CCF A`)  <br>
+**秦雁飞**, 刘宝林. <br>
+*OTDE: optimal transport distribution enhancement for few-shot video recognition[J]. Applied Intelligence, 2023, 53(13): 17115-17127，IF=5.3，中科院2区, JCR Q2.*
 [[link]]()
 
 </div>
