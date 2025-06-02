@@ -172,6 +172,7 @@ IF=0.9，中科院4区，JCR Q3.<br>
 </div>
 </div>
 
+<!--
 ### Patents
 ---
 - CN113850414B. Method for Logistics Scheduling Planning Based on Graph Neural Networks and Reinforcement Learning. (First Inventor, Authorized)
@@ -182,18 +183,17 @@ IF=0.9，中科院4区，JCR Q3.<br>
 - CN114169421A. Cooperative Exploration Method in Sparse Reward Environments for Multi Agent Systems Based on Intrinsic Motivation. (Fourth Inventor, Under Review)
 - CN114139681A. Meta Reinforcement Learning Method Based on Contrastive Learning and Mutual Information. (Fourth Inventor, Under Review)
 
-
-
+-->
 
 <span class='anchor' id='Competitions_and_Honors'></span>
 
 # 🏅 Competitions and Honors
-- *2022.12*, NeurIPS 2022 SMARTS Autonomous Driving Competition. `First Prize` in both tracks. [[link]](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/)  
-- *2021.06*, Huawei 2012 Central Research Institute Innovation Pioneer. `President's Award Second Prize`.
-- *2017.12*,  Intel Cup National College Students Software Innovation Competition `National Finals Third prize`  
+- *2015.10*, “全国大学生电子设计竞赛. `山西赛区一等奖`.     
+- *2015.06*, “挑战杯” 全国大学生课外学术科技竞赛. `山西省一等奖`.
+- *2014.10*,  山西省大学生电子设计竞赛. `一等奖`.  
 
+<!--
 <span class='anchor' id='Invited_Talks'></span>
-
 # 🏛️ Invited Talks
 - *2024.7*, Transformer-based Models in Decision Making. @NJU
 - *2023.12*, Reining Generalization in Offline Reinforcement Learning via Representation Distinction. @DAI 2023
@@ -216,5 +216,4 @@ pickup and delivery problems @RLChina
 - Reviewer for Conferences: ICML, ICLR, NeurIPS, AAAI, IJCAI, AAMAS, DAI, CIKM.
 
 - Student Contactor of RLChina.
-
-  
+-->
