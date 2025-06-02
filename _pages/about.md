@@ -32,21 +32,20 @@ redirect_from:
     margin: 8px 0;
   }
   .time-column {
-    flex: 0 0 180px;
-    text-align: right;
-    padding-right: 15px;
+    flex: 0 0 120px;
+    text-align: center;
   }
   .logo-column {
     flex: 0 0 40px;
     text-align: center;
   }
-  .logo-column img {
-    width: 24px;
-    height: 24px;
-    object-fit: contain;
-  }
   .org-column {
     flex: 0 0 300px;
+    text-align: center;
+    padding: 0 15px;
+  }
+  .xy-column {
+    flex: 0 0 260px;
     text-align: center;
     padding: 0 15px;
   }
@@ -66,8 +65,8 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">北京科技大学</span>
-    <span class="degree-column">计算机与通信工程学院</span>
-    <span class="degree-column">计算机科学与技术</span>
+    <span class="xy-column">计算机与通信工程学院</span>
+    <span class="xy-column">计算机科学与技术</span>
     <span class="degree-column">博士</span>
   </div>
 
@@ -79,8 +78,8 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">苏宁科技集团/海研自动化科技有限公司</span>
-    <span class="degree-column">图像实验室</span>
-    <span class="degree-column">-</span>
+    <span class="xy-column">图像实验室</span>
+    <span class="xy-column">-</span>
     <span class="degree-column">图像算法工程师</span>
   </div>
 
@@ -92,8 +91,8 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">北京交通大学</span>
-    <span class="degree-column">电子信息工程学院</span>
-    <span class="degree-column">电子与通信工程</span>
+    <span class="xy-column">电子信息工程学院</span>
+    <span class="xy-column">电子与通信工程</span>
     <span class="degree-column">硕士</span>
   </div>
 
@@ -105,8 +104,8 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">中北大学</span>
-    <span class="degree-column">信息与通信工程学院</span>
-    <span class="degree-column">光电信息科学与技术</span>
+    <span class="xy-column">信息与通信工程学院</span>
+    <span class="xy-column">光电信息科学与技术</span>
     <span class="degree-column">学士</span>
   </div>
 </div>
