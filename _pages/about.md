@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='Education'></span>
+<span class='anchor' id='Work_and_Education'></span>
 # 🎓 Education
 <style>
   .timeline-container {
@@ -116,13 +116,13 @@ redirect_from:
 </div>
 
 
-<span class='anchor' id='Research Direction'></span>
+<span class='anchor' id='Research_Direction'></span>
 # ✨ Research Direction
 - 深度学习
 - 计算机视觉
 - 小样本学习
 
-<span class='anchor' id='Selected Publications'></span>
+<span class='anchor' id='Selected_Publications'></span>
 # 📝 Selected Publications
 
 ## 论文
@@ -185,14 +185,14 @@ IF=0.9，中科院4区，JCR Q3.<br>
 
 
 
-<span class='anchor' id='Competitions and Honors'></span>
+<span class='anchor' id='Competitions_and_Honors'></span>
 
 # 🏅 Competitions and Honors
 - *2022.12*, NeurIPS 2022 SMARTS Autonomous Driving Competition. `First Prize` in both tracks. [[link]](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/)  
 - *2021.06*, Huawei 2012 Central Research Institute Innovation Pioneer. `President's Award Second Prize`.
 - *2017.12*,  Intel Cup National College Students Software Innovation Competition `National Finals Third prize`  
 
-<span class='anchor' id='Invited Talks'></span>
+<span class='anchor' id='Invited_Talks'></span>
 
 # 🏛️ Invited Talks
 - *2024.7*, Transformer-based Models in Decision Making. @NJU
