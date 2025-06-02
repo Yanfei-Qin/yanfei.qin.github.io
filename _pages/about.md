@@ -69,7 +69,9 @@ redirect_from:
         <img src="/images/logo/北科_logo.jpeg" alt="北京科技大学" width="20">
       </a>
     </span>
-    <span class="org-column">北京科技大学</span>
+    <a class="org-column" href="https://www.ustb.edu.cn" target="_blank" style="color: #007bff; text-decoration: none;">
+  北京科技大学
+  </a>
     <span class="xy1-column">计算机与通信工程学院</span>
     <span class="xy2-column">计算机科学与技术</span>
     <span class="degree-column">博士</span>
