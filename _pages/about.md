@@ -32,7 +32,7 @@ redirect_from:
     margin: 8px 0;
   }
   .time-column {
-    flex: 0 0 120px;
+    flex: 0 0 150px;
     text-align: center;
   }
   .logo-column {
@@ -45,7 +45,7 @@ redirect_from:
     padding: 0 15px;
   }
   .xy-column {
-    flex: 0 0 260px;
+    flex: 0 0 160px;
     text-align: center;
     padding: 0 15px;
   }
