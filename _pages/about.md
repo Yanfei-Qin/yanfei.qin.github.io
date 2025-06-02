@@ -66,6 +66,8 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">北京科技大学</span>
+    <span class="org-column">计算机与通信工程学院</span>
+    <span class="org-column">计算机科学与技术</span>
     <span class="degree-column">博士</span>
   </div>
 
@@ -77,6 +79,8 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">苏宁科技集团/海研自动化科技有限公司</span>
+    <span class="org-column">图像实验室</span>
+    <span class="org-column">-</span>
     <span class="degree-column">图像算法工程师</span>
   </div>
 
@@ -88,6 +92,8 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">北京交通大学</span>
+    <span class="org-column">电子信息工程学院</span>
+    <span class="org-column">电子与通信工程</span>
     <span class="degree-column">硕士</span>
   </div>
 
@@ -99,27 +105,26 @@ redirect_from:
       </a>
     </span>
     <span class="org-column">中北大学</span>
+    <span class="org-column">信息与通信工程学院</span>
+    <span class="org-column">光电信息科学与技术</span>
     <span class="degree-column">学士</span>
   </div>
 </div>
 
-<span class='anchor' id='-lwzl'></span>
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='Research Direction'></span>
 # ✨ Research Direction
 研究方向:
 - 深度学习
 - 计算机视觉
 - 小样本学习
 
-
+<span class='anchor' id='Selected Publications'></span>
 # 📝 Selected Publications
 
 ### Papers
 ---
 PS: Authors with equal contribution are marked by \*.
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='thumbs/NeurIPS2024_01.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -324,14 +329,14 @@ ICML 2020. (`CCF A`)  <br>
 
 
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='Competitions and Honors'></span>
 
 # 🏅 Competitions and Honors
 - *2022.12*, NeurIPS 2022 SMARTS Autonomous Driving Competition. `First Prize` in both tracks. [[link]](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/)  
 - *2021.06*, Huawei 2012 Central Research Institute Innovation Pioneer. `President's Award Second Prize`.
 - *2017.12*,  Intel Cup National College Students Software Innovation Competition `National Finals Third prize`  
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='Invited Talks'></span>
 
 # 🏛️ Invited Talks
 - *2024.7*, Transformer-based Models in Decision Making. @NJU
@@ -341,7 +346,7 @@ ICML 2020. (`CCF A`)  <br>
 pickup and delivery problems @RLChina
 
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='Internships'></span>
 
 # 💻 Internships
 - *2024.01-2024.07*, Qiyuan Lab, AI Foundation Team. Supervised by Chen Chen.
@@ -349,6 +354,7 @@ pickup and delivery problems @RLChina
 - *2020.04-2020.10*, Huawei Noah’s Ark Lab, Enterprise Intelligence Team. Supervised by  Jiawen Lu.
 - *2019.07-2019.12*, Alibaba, Alimama Target Advertising Team.  Supervised by Junqi Jin.
 
+<span class='anchor' id='Academic Service'></span>
 #  Academic Service
 
 - Reviewer for Conferences: ICML, ICLR, NeurIPS, AAAI, IJCAI, AAMAS, DAI, CIKM.
