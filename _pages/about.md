@@ -125,8 +125,6 @@ redirect_from:
 <span class='anchor' id='Selected_Publications'></span>
 # 📝 Selected Publications
 
-## 论文
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/TFRS.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
