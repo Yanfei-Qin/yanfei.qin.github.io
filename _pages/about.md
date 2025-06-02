@@ -24,6 +24,7 @@ redirect_from:
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
+    padding-left: 20px;  /* ← 添加这一行 */
     font-family: Arial, sans-serif;
   }
   .timeline-item {
