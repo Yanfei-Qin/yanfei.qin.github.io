@@ -127,17 +127,6 @@ redirect_from:
 
 ## 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/OTDE.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**秦雁飞**, 刘宝林. <br>
-*OTDE: optimal transport distribution enhancement for few-shot video recognition[J]. Applied Intelligence, 2023, 53(13): 17115-17127.*<br>
-IF=5.3，中科院2区, JCR Q2.<br>
-[[link]](https://link.springer.com/article/10.1007/s10489-022-04369-4)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/TFRS.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -145,6 +134,18 @@ IF=5.3，中科院2区, JCR Q2.<br>
 *TFRS: A task-level feature rectification and separation method for few-shot video action recognition[J]. Neural Networks, 2024, 176: 106326.*<br>
 IF=7.8，中科院1区, JCR Q1.<br>
 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002508)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/OTDE.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**秦雁飞**, 刘宝林. <br>
+*OTDE: optimal transport distribution enhancement for few-shot video recognition[J]. Applied Intelligence, 2023, 53(13): 17115-17127.*<br>
+IF=5.3，中科院2区, JCR Q2.<br>
+[[link]](https://link.springer.com/article/10.1007/s10489-022-04369-4)
 
 </div>
 </div>
