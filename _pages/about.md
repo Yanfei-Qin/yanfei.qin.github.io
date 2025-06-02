@@ -149,7 +149,7 @@ IF=7.8，中科院1区, JCR Q1.<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/KMD.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper/KDM.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **秦雁飞**, 刘宝林. <br>
@@ -165,7 +165,7 @@ IF=6，中科院2区, JCR Q1.<br>
 
 **秦雁飞**, 刘宝林. <br>
 *Advancing Incremental Few-Shot Video Action Recognition with Cluster Compression and Generative Separation[J]. International Journal of Pattern Recognition and Artificial Intelligence, 2024, 38(14): 2455013.*<br>
-IF=0.9，中科院4区，JCR Q3.
+IF=0.9，中科院4区，JCR Q3.<br>
 [[link]](https://www.worldscientific.com/doi/abs/10.1142/S0218001424550139)
 
 </div>
