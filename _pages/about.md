@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='Work_and_Education'></span>
-# 🎓 Education
+# 🎓 Work and Education
 <style>
   .timeline-container {
     display: flex;
