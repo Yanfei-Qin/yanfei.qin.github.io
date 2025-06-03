@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "秦雁飞"
   avatar           : "images/photo.jpg"
+  birthday         : "1995.04"
   bio              : "Show me the code!"
   location         : "Beijing"
   employer         : #"Hefei General Machinery Research Institute"
